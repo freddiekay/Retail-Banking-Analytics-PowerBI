@@ -105,7 +105,27 @@ This dashboard addresses these challenges by providing an integrated analytical 
 ![Financial Performance](Images/05-Financial-Performance.png)
 
 ---
+## Business Impact
 
+This dashboard enables bank management to:
+
+- Monitor branch profitability
+- Track customer growth
+- Analyze loan portfolio performance
+- Identify credit risk exposure
+- Improve strategic decision-making
+
+## KPIs Monitored
+
+- Total Customers
+- Total Deposits
+- Total Loans
+- Outstanding Balance
+- Revenue
+- Profit
+- Profit Margin
+- Cost-to-Income Ratio
+- Default Rate
 ## Author
 
 Frederick Kwame Molah
