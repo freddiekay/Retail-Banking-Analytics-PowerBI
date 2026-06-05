@@ -84,7 +84,25 @@ This dashboard addresses these challenges by providing an integrated analytical 
 
 ## Project Screenshots
 
-(Add dashboard screenshots here)
+## Executive Overview
+
+![Executive Overview](Images/01-Executive-Overview.png)
+
+## Branch Performance
+
+![Branch Performance](Images/02-Branch-Performance.png)
+
+## Loan Portfolio & Credit Risk
+
+![Loan Portfolio](Images/03-Loan-Portfolio-Risk.png)
+
+## Customer Analytics
+
+![Customer Analytics](Images/04-Customer-Analytics.png)
+
+## Financial Performance
+
+![Financial Performance](Images/05-Financial-Performance.png)
 
 ---
 
